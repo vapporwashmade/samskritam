@@ -6,15 +6,17 @@ I started learning the language formally in late 2020. A motivation for it was t
 
 One problem with doing "languages" in high schools is their exam orientation. संस्कृत is an unfathomable ocean! But yeah, exams have their place. I started following the संस्कृत-भारती curriculum of "Sanskrit by Correspondence" (पत्रालयद्वारा-संस्कृतम्). This repo is about my explorations with the exams they conduct, but it is not limited to that.
 
-I have taken enough efforts and as a result, a liking for the language, its roots, and its literature have created an impression on me. I will try to write about that in this repo.
+I have taken enough efforts and as a result, the language, its roots, and its literature have created an impression on me. I will try to write about that in this repo.
 
 संस्कृत-भाारती  carries out several exams. They require the student to become increasingly competent with the levels of complexity: प्रवेशः, परिचयः, शिक्षा, कोविदः. I am not sure if I will do all of them, but I will write about what I do.
 
 General structure of the repo:
 
 Root
-  ----| README.MD
-  ----| <other-docs>
-  ----| pravesha-exam
-  ----| parichaya-exam
+     
+     ----| README.MD
+     ----| <other-docs>
+     ----| pravesha-exam
+     ----| parichaya-exam
+     
 ...
